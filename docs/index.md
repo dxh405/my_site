@@ -8,4 +8,4 @@ This is where I will be hosting my Personal Website!
 
 ## Picture of Me!
 
-<img src="/Images/GnK-WMxL.jpg" alt="senior picture" width="300"/>
+<img src="/docs/Images/GnK-WMxL.jpg" alt="senior picture" width="300"/>

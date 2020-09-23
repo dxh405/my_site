@@ -9,5 +9,4 @@ This is where I will be hosting my Personal Website!
 
 ## Picture of Me!
 
-![Senior Picture Headshot](/docs/Images/GnK-WMxL.jpg)
-
+<img src="/docs/Images/GnK-WMxL.jpg" alt="senior picture" width="300"/>

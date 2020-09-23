@@ -4,6 +4,6 @@ This is where I will be hosting my Personal Website!
 
 ## About this site!
 
-## Rasterized Picture of my head!
+## My Favorite Esports team!
 
-![my rasterized headshot](images/rasterHeadshot.png)
+![Complexity logo](images/D5q9zOnX4AEbBci.png)

@@ -4,5 +4,7 @@ This is where I will be hosting my Personal Website!
 
 ## About this site!
 
-## My Favorite Esports team!
+## Picture of Me!
+
+![Senior Picture Headshot](images/GnK-WMxL.jpg)
 

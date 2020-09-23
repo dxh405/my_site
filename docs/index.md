@@ -6,5 +6,5 @@ This is where I will be hosting my Personal Website!
 
 ## Picture of Me!
 
-![Senior Picture Headshot](images/GnK-WMxL.jpg)
+![Senior Picture Headshot](/images/GnK-WMxL.jpg)
 

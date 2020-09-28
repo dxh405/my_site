@@ -1,6 +1,7 @@
-# Resume
-
 [Home](index.md) | [Resume](resume.md)
+
+
+# Resume
 
 ## Contact information
 

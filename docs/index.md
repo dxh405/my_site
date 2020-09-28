@@ -1,4 +1,4 @@
-## Welcome to My Github Page
+## My Github Page
 
 This is where I will be hosting my Personal Website!
 

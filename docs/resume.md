@@ -1,5 +1,7 @@
 ## Contact information
 
+**dxh405@psu.edu**
+
 ## Education and project experience
 
 The Pennsylvania State University, Erie, PA - Digital Media, Arts and Technology B.A.

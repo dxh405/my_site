@@ -17,6 +17,10 @@ I have also worked with oXygen.XML with some work in text encoding. Along with s
 
 My greatest interest and passion is esports. I hope one day to be able to utilize my skills somewhere in the esports field. Esports is electronic sports, or competitive gaming which I have been around nearly all of my life.
 
+## Link to other site!
+
+[Github site](https://dxh405.github.io/my_site/)
+
 ## Picture of Me!
 
 <img src="Images/GnK-WMxL.jpg" alt="senior picture" width="300"/>

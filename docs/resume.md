@@ -1,5 +1,7 @@
 # Resume
 
+[Home](index.md) | [Resume](resume.md)
+
 ## Contact information
 
 **dxh405@psu.edu**

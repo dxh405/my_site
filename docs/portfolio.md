@@ -1,4 +1,4 @@
-[Home](index.md) | [Resume](resume.md) 
+[Home](index.md) | [Resume](resume.md) | [Reflection](reflection.md)
 
 
 # My Portfolio!

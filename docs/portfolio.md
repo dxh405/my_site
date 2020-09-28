@@ -4,6 +4,6 @@
 
 <img src="/docs/Images/ROGERS-LOGO.png" alt="rogers logo recreated" width="300"/>
 
-[<img src="/docs/Raster.png" alt="raster headshot" width="300"/>](docs/Raster.png)
+[<img src="/docs/Raster.png" alt="raster headshot" width="300"/>](/docs/Raster.png)
 
 ### Just got to upload them here!

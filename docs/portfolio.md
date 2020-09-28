@@ -6,4 +6,4 @@
 
 <img src="Raster.png" alt="raster headshot" width="300"/>
 
-### Just got to upload them here!
+![Rogers Logo Recreated](Images/ROGERS-LOGO.png)

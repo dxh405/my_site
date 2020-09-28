@@ -5,6 +5,7 @@ This is where I will be hosting my Personal Website!
 ## About this site!
 * [Resume](resume.md)
 * [Portfolio](portfolio.md)
+* [Reflection](reflection.md)
 
 ## About me!
 

@@ -19,7 +19,7 @@ My greatest interest and passion is esports. I hope one day to be able to utiliz
 
 ## Link to other site!
 
-[Github site](https://dxh405.github.io/my_site/)
+[WordPress Site](https://sites.psu.edu/dxh405/)
 
 ## Picture of Me!
 

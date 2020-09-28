@@ -1,8 +1,6 @@
-### Here is where my portflio will go!
+# My Portfolio!
 
-### Images and stuff of what I have done!
-
-<img src="Images/ROGERS-LOGO.png" alt="rogers logo recreated" width="300"/>
+### Just a few examples of things I have created
 
 <img src="Raster.png" alt="raster headshot" width="300"/>
 

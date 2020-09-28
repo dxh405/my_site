@@ -1,8 +1,7 @@
-# My Portfolio!
-
 [Home](index.md) | [Resume](resume.md) 
 
 
+# My Portfolio!
 
 ### Just a few examples of things I have created
 

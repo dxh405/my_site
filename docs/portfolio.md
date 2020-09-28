@@ -9,4 +9,4 @@
 
 <img src="Images/ROGERS-LOGO.png" alt="raster headshot" width="300"/>
 
-
+I work primarily in the adobe programs. I have the most experience with Photoshop and am learning new things everyday with it.

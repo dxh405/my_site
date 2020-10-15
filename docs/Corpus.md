@@ -19,10 +19,13 @@ I chose both of these texts initially because I knew they both had their own “
 
 ### Cirrus in Voyant
 
-Dracula 
+
 <img src="Images/DraculaWords.png" alt="raster headshot" width="350"/> 
-Frankenstein 
+
 <img src="Images/FrankensteinWords.png" alt="raster headshot" width="350"/>
+
+Dracula(Top)
+Frankenstein(Bottom)
 
 The Cirrus option in Voyant tools gives a giant word cloud of commonly used words. I put both of the texts into this word cloud to see what I could find. The easiest common word between the two was “said” which would be pretty obvious as they are both dialog driven stories. Both stories utilized the word “man” many times. Looking at this from afar this could have happened because in Frankenstein the word “father” is one of the more prevalent words, and in Dracula both “Johnathan” and “Van/Helsing” are three of the most prevalent words. 
 

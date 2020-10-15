@@ -1,6 +1,6 @@
 # Reflection
 
-[Home](index.md) | [Resume](resume.md) | [Portfolio](portfolio.md)
+[Home](index.md) | [Resume](resume.md) | [Portfolio](portfolio.md) | [Corpus Analysis](Corpus.md)
 
 For this project we created 2 website with the same content but through two different means. Reflecting on the different aspects of both websites and things that we encountered while creating both.
 

@@ -1,4 +1,4 @@
-[Home](index.md) | [Portfolio](portfolio.md) | [Reflection](reflection.md)
+[Home](index.md) | [Portfolio](portfolio.md) | [Reflection](reflection.md) | [Corpus Analysis](Corpus.md)
 
 
 # Resume

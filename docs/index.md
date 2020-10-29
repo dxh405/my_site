@@ -7,6 +7,7 @@ This is where I will be hosting my Personal Website!
 * [Portfolio](portfolio.md)
 * [Reflection](reflection.md)
 * [Corpus Analysis](Corpus.md)
+* [TimeMapper](timemapper.md)
 ## About me!
 
 My name is Daniel Hough. I am studying DIGIT at Penn State Behrend. DIGIT stands for Digital Media, Arts, and Technology. This major really helps me capture my passion in working with photo, film, and sound.

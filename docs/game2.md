@@ -1,4 +1,4 @@
-[Home](index.md)
+[Home](index.md) | [First Game Review!](game.md)
 
 # Game Review 
 
